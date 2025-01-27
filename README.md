@@ -34,3 +34,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+Features of NEXT JS - React framework
+
+Server side rendering - sends only those HTML to thee Browser which is need to render the current web page -no processing of javascript to create HTML out of it
+
+static generation - making content static as possible makes it much faster for the browser to rende the page
+
+image optimization - Loads smaller image for smaller device, loads image lazily in the browser
+
+File based routing
+Built in typescript support
+built in css module & scss support
+code splitting
