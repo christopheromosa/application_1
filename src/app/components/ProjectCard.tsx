@@ -4,7 +4,7 @@ import { IProject } from "../types";
 import { AiFillGithub, AiFillProject } from "react-icons/ai";
 import { MdClose } from "react-icons/md";
 import Image from "next/image";
-import Project_img from "../../public/images/covid.jpg";
+import Project_img from "../../public/images/covid.webp";
 import { motion } from "framer-motion";
 import { fadeInUp, stagger } from "../animation";
 

@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import Profile_pic from "/src/public/images/covid.jpg";
+import Profile_pic from "/src/public/images/profile.webp";
 import Image from "next/image";
 
 import { FaGithub } from "react-icons/fa";
