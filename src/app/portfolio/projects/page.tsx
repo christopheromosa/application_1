@@ -6,7 +6,7 @@ import ProjectNavbar from "@/app/components/ProjectNavbar";
 import { Category } from "@/app/types";
 import { motion } from "framer-motion";
 
-const page = () => {
+const Page = () => {
   const [projects, setProjects] = useState(projectsData);
   const [active, setActive] = useState<Category | "all">("all");
   const [showDetail, setShowDetail] = useState<number | null>(null);
@@ -52,4 +52,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

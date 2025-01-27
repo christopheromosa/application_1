@@ -5,7 +5,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { fadeInUp, routeAnimation, stagger } from "@/app/animation";
 
-const page = () => {
+const Page = () => {
   return (
     <motion.div
       className="flex flex-col px-4 flex-grow dark:text-white text-sm"
@@ -48,4 +48,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

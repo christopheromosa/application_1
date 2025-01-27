@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-unsafe-function-type */
 "use client";
 import React, { useState, useEffect, FunctionComponent } from "react";
 import Link from "next/link";
@@ -6,7 +5,7 @@ import { usePathname } from "next/navigation";
 
 const NavItem: FunctionComponent<{
   activeItem: string;
-  setActiveItem: Function;
+  setActiveItem: (name:string)=>void;
   name: string;
   route: string;
 }> = ({ activeItem, name, route, setActiveItem }) => {

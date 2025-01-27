@@ -7,7 +7,7 @@ import SkillCard from "@/app/components/SkillCard";
 import { motion } from "framer-motion";
 import { fadeInUp, routeAnimation } from "../../animation";
 
-const page = () => {
+const Page = () => {
   return (
     <motion.div
       variants={routeAnimation}
@@ -86,4 +86,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;
