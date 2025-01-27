@@ -114,7 +114,7 @@ export const projects: IProject[] = [
     name: "COVID Tracker",
     description:
       "This app shows a statistical view about corona virus over the world",
-    image_path: "/images/covid.jpg",
+    image_path: "/images/covid.webp",
     deployed_url: "https://covid-12-tracker-by-sumit.web.app",
     github_url: "https://github.com/CHRIS-CODER/Covid-12-tracker",
     category: ["react"],
@@ -125,7 +125,7 @@ export const projects: IProject[] = [
     name: "COVID Tracker",
     description:
       "This app shows a statistical view about corona virus over the world",
-    image_path: "/images/covid.jpg",
+    image_path: "/images/covid.webp",
     deployed_url: "https://covid-12-tracker-by-sumit.web.app",
     github_url: "https://github.com/CHRIS-CODER/Covid-12-tracker",
     category: ["react"],
@@ -136,7 +136,7 @@ export const projects: IProject[] = [
     name: "COVID Tracker",
     description:
       "This app shows a statistical view about corona virus over the world",
-    image_path: "/images/covid.jpg",
+    image_path: "/images/covid.webp",
     deployed_url: "https://covid-12-tracker-by-sumit.web.app",
     github_url: "https://github.com/CHRIS-CODER/Covid-12-tracker",
     category: ["react"],
@@ -147,7 +147,7 @@ export const projects: IProject[] = [
     name: "COVID Tracker",
     description:
       "This app shows a statistical view about corona virus over the world",
-    image_path: "/images/covid.jpg",
+    image_path: "/images/covid.webp",
     deployed_url: "https://covid-12-tracker-by-sumit.web.app",
     github_url: "https://github.com/CHRIS-CODER/Covid-12-tracker",
     category: ["react"],
@@ -158,7 +158,7 @@ export const projects: IProject[] = [
     name: "COVID Tracker",
     description:
       "This app shows a statistical view about corona virus over the world",
-    image_path: "/images/covid.jpg",
+    image_path: "/images/covid.webp",
     deployed_url: "https://covid-12-tracker-by-sumit.web.app",
     github_url: "https://github.com/CHRIS-CODER/Covid-12-tracker",
     category: ["react"],
@@ -169,7 +169,7 @@ export const projects: IProject[] = [
     name: "COVID Tracker",
     description:
       "This app shows a statistical view about corona virus over the world",
-    image_path: "/images/covid.jpg",
+    image_path: "/images/covid.webp",
     deployed_url: "https://covid-12-tracker-by-sumit.web.app",
     github_url: "https://github.com/CHRIS-CODER/Covid-12-tracker",
     category: ["react"],
@@ -180,7 +180,7 @@ export const projects: IProject[] = [
     name: "COVID Tracker",
     description:
       "This app shows a statistical view about corona virus over the world",
-    image_path: "/images/covid.jpg",
+    image_path: "/images/covid.webp",
     deployed_url: "https://covid-12-tracker-by-sumit.web.app",
     github_url: "https://github.com/CHRIS-CODER/Covid-12-tracker",
     category: ["react"],
@@ -191,7 +191,7 @@ export const projects: IProject[] = [
     name: "COVID Tracker",
     description:
       "This app shows a statistical view about corona virus over the world",
-    image_path: "/images/covid.jpg",
+    image_path: "/images/covid.webp",
     deployed_url: "https://covid-12-tracker-by-sumit.web.app",
     github_url: "https://github.com/CHRIS-CODER/Covid-12-tracker",
     category: ["react"],
