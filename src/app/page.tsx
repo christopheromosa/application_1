@@ -1,17 +1,11 @@
 "use client";
 /* eslint-disable react/react-in-jsx-scope */
 // import Image from "next/image";
-import { useEffect } from "react";
+import { redirect } from "next/navigation";
 
 export default function Home() {
   
-  useEffect(() => {
-    
-  }, [])
+ redirect("/portfolio/about")
   
-  return (
-    <>
-      
-    </>
-  );
+  return null
 }
