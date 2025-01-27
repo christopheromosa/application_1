@@ -22,7 +22,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 20  # Ensure it matches your Next.js version
-          cache: "yarn"
+          cache: "npm"
 
       # Step 3: Install dependencies
       - name: Install dependencies
